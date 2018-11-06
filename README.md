@@ -1,2 +1,2 @@
 # jeach-lorem-ipsum
-Jeach Lorem Ipsum text polyfill for Node JS.
+Jeach's *Lorem Ipsum* text polyfill for Node JS.
