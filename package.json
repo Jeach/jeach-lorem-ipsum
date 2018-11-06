@@ -1,7 +1,7 @@
 {
   "name": "jeach-lorem-ipsum",
   "version": "0.1.0",
-  "description": "Jeach's Lorem Ipsum text Polyfill for NodeJS",
+  "description": "Jeach's Lorem Ipsum text polyfill for Node JS",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
